@@ -1,0 +1,16 @@
+产权人
+id
+房屋
+fwid
+营业执照号
+yyzzzch
+单位名称
+cqrmc
+联系人
+lxr
+单位地址
+dwdz
+固定电话
+gddh
+移动电话
+yddh

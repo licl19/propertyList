@@ -1,0 +1,16 @@
+/// 产权人
+@property (nonatomic, copy) NSString *id;
+/// 房屋
+@property (nonatomic, copy) NSString *fwid;
+/// 营业执照号
+@property (nonatomic, copy) NSString *yyzzzch;
+/// 单位名称
+@property (nonatomic, copy) NSString *cqrmc;
+/// 联系人
+@property (nonatomic, copy) NSString *lxr;
+/// 单位地址
+@property (nonatomic, copy) NSString *dwdz;
+/// 固定电话
+@property (nonatomic, copy) NSString *gddh;
+/// 移动电话
+@property (nonatomic, copy) NSString *yddh;
